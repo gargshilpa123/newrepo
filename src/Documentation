@@ -1,0 +1,7 @@
+--> Bugs
+
+1) On clicking the back button it closes the application
+
+
+2) Once we select the Rebate Quater Option and then if we select the Time period to "Payment Date range " the rebate Quater option
+gets deselected but it get changed as it sets the value
